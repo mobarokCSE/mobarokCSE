@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Mobarok Hossain
 #### Front-end Developer
-![Front-end Developer](https://scontent.fdac14-1.fna.fbcdn.net/v/t39.30808-6/322516310_493306482833076_7944373698748666645_n.png?_nc_cat=104&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeE8tm8SnsBL9tUAhn6sInWjr0HROHwqnsOvQdE4fCqew7jOx_9LmhOf9WemsklIA1tuJ-qizC7V6nSx-UfspbKo&_nc_ohc=eCVS4v7GpG0AX994S3d&tn=c8XCoc17bSy1LaxO&_nc_ht=scontent.fdac14-1.fna&oh=00_AfDEt2TXXFZTjMSZA1di3k5idPY5uqRHaJBz3FlA8bxV8A&oe=63B45328)
+![Front-end Developer](https://i.postimg.cc/3RzYPQ23/1.png)
 
 I’m a Front-end Developer. I have a passion for learning and sharing my knowledge with others as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind.  I pride myself on doing quality work and maintain excellent communication.
 
