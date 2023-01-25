@@ -5,7 +5,7 @@ I’m a Front-end Developer. I have a passion for learning and sharing my knowle
 Skills: HTML5/CSS/SASS/VUE JS/ NUXT 3/ES6/JS
 
 - 🔭 I’m currently working on Tork Inc. 
-- 🌱 I’m currently learning Nuxt 3 
+- 🌱 I’m currently learning Nuxt 3 ./ Advace SASS
 - 📫 How to reach me: 01837875027 
 
 
