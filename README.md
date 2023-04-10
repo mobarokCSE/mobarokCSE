@@ -1,6 +1,6 @@
 ### Hi, I'm Mobarok Hossain  👋
-#### 👑 Front-end Developer
-I’m a Front-end Developer. I have a passion for learning and sharing my knowledge with others as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind.  I pride myself on doing quality work and maintain excellent communication.
+#### 👑 Front-end Designer & Developer
+I’m a Front-end Designer & Developer. I have a passion for learning and sharing my knowledge with others as possible. I love to create creative modern design and  solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind.  I pride myself on doing quality work and maintain excellent communication.
 
 Skills: HTML5/CSS/SASS/VUE JS/ NUXT 3/ES6/JS
 
