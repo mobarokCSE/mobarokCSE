@@ -12,3 +12,5 @@ Skills: HTML5/CSS/SASS/VUE JS/ NUXT 3/ES6/JS
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/mobarokCSE)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/mobarokCSE/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/mobarok.hossain27/)  
 
+🌐 Socials:
+LinkedIn Facebook Medium Twitter Behance
